@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<ctype.h>
 
 char S[50];
 int top = -1;
